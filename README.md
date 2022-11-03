@@ -13,3 +13,6 @@ page with a class of footer was changed to the footer tag, and we changed it in 
 tag in the footer from h2 to h4, as it put the headings out of order. They now fall in sequence: h1,h2,h3,h4.
 We confirmed and found semantic HTML elements that followed a logical structure.
 ![Horiseon Screenshot](https://user-images.githubusercontent.com/17559972/199591440-2a3d1e0d-8295-4afd-98be-1c78b8301fab.png)
+
+
+ https://brachtco.github.io/horiseon-refactor/
