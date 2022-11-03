@@ -2,7 +2,7 @@
 
 ##Description
 
-This is the HTML and CSS code for the Horiseon website. Horiseon requested a refactoring of the cod,
+This is the HTML and CSS code for the Horiseon website. Horiseon requested a refactoring of the code,
 and this is the completed refactor. 
 
 Horieson wanted the code to follow accessiblity standards and optimized for search engines (SEO rankings).
